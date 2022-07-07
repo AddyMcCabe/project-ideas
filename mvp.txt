@@ -1,0 +1,17 @@
+Pitch/Idea: Create a web application that allows users to find resources for people who have loved ones struggling with addiction in Utah
+
+MVP:
+(after loging in)
+
+Users can find local and state funds available for low income families as well as add new or unlisted resources.
+
+Users can find various support groups for people who have loved ones struggling with addiction as well as people who have lost loved ones to drugs. they will also 
+have the ablilty to add new or unlisted support groups
+
+Users can find information on what they can do while their loved ones are dealing with addiction as well as add helpful information and resources to information 
+about the proavtive steps family members can take
+
+
+Future Features:
+
+give users the ability to search for resources outide of just Utah.
